@@ -1,0 +1,6 @@
+[submodule "jekyllWeb-api"]
+	path = jekyllWeb-api
+	url = https://github.com/kevintauran/jekyll-ssg.git
+[submodule "jekyllWeb"]
+	path = jekyllWeb
+	url = https://github.com/kevintauran/jekyll-ssg.git
